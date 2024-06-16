@@ -1,0 +1,7 @@
+#pragma version 10
+
+smart_contracts.advanced_marketplace.contract.AdvancedMarketplace.clear_state_program:
+    // smart_contracts/advanced_marketplace/contract.py:6
+    // class AdvancedMarketplace(ARC4Contract):
+    int 1
+    return
